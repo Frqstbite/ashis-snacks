@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ashis_snacks:item/bucket_ground_beef"
+  }
+}
