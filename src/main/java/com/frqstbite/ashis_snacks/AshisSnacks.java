@@ -21,7 +21,8 @@ public class AshisSnacks {
         // Connect mod hooks
         eventBus.addListener(this::setup);
 
-        // Register mod instances
+        // Register mod content
+        ModBlocks.register(eventBus);
         ModItems.register(eventBus);
 
         // Register ourselves for server and other game events we are interested in
