@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "state=empty,facing=north": {
+      "model": "ashis_snacks:block/meat_grinder_empty"
+    },
+    "state=empty,facing=east": {
+      "model": "ashis_snacks:block/meat_grinder_empty",
+      "y": 90
+    },
+    "state=empty,facing=south": {
+      "model": "ashis_snacks:block/meat_grinder_empty",
+      "y": 180
+    },
+    "state=empty,facing=west": {
+      "model": "ashis_snacks:block/meat_grinder_empty",
+      "y": 270
+    },
+    "state=bucket,facing=north": {
+      "model": "ashis_snacks:block/meat_grinder_bucket"
+    },
+    "state=bucket,facing=east": {
+      "model": "ashis_snacks:block/meat_grinder_bucket",
+      "y": 90
+    },
+    "state=bucket,facing=south": {
+      "model": "ashis_snacks:block/meat_grinder_bucket",
+      "y": 180
+    },
+    "state=bucket,facing=west": {
+      "model": "ashis_snacks:block/meat_grinder_bucket",
+      "y": 270
+    },
+    "state=filled,facing=north": {
+      "model": "ashis_snacks:block/meat_grinder_filled"
+    },
+    "state=filled,facing=east": {
+      "model": "ashis_snacks:block/meat_grinder_filled",
+      "y": 90
+    },
+    "state=filled,facing=south": {
+      "model": "ashis_snacks:block/meat_grinder_filled",
+      "y": 180
+    },
+    "state=filled,facing=west": {
+      "model": "ashis_snacks:block/meat_grinder_filled",
+      "y": 270
+    }
+  }
+}
